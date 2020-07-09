@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hello I'm Taufiq 👋
+
+I’m a Website Developer from Indonesia, helping companies deliver beautiful, intuitive UX through thoughtful design and efficient code. Having spent a couple of years in infrastructure department, has given me a broad understanding of web development. I've been delivering more efficient and effective websites, UX and code wise, for over 5 years ever since.
+
+🔭 Currently frontend engineer at [Bukalapak](htpps://bukalapak.com)
+
+🏷 Website Design & Development
+
+📍Jakarta, Indonesia
+
+[Let's work together](https://taufiqelrahman.com)
 
 <!--
 **taufiqelrahman/taufiqelrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
