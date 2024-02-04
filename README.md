@@ -1,8 +1,8 @@
 ## Hello I'm Taufiq 👋
 
-I’m a Website Developer from Indonesia, helping companies deliver beautiful, intuitive UX through thoughtful design and efficient code. Having spent a couple of years in infrastructure department, has given me a broad understanding of web development. I've been delivering more efficient and effective websites, UX and code wise, for over 5 years ever since.
+I’m a Website Developer from Indonesia, helping companies deliver beautiful, intuitive UX through thoughtful design and efficient code. Having spent a couple of years in infrastructure department, has given me a broad understanding of web development. I've been delivering more efficient and effective websites, UX and code wise, for over 8 years ever since.
 
-🔭 Currently frontend engineer at [Bukalapak](htpps://bukalapak.com)
+🔭 Currently senior frontend engineer at [Gojek](https://www.gojek.com)
 
 🏷 Website Design & Development
 
