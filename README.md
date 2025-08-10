@@ -1,5 +1,5 @@
 ## Hello I'm Taufiq 👋
-Frontend Engineer with 5+ years of experience building **enterprise-grade web platforms** for high-traffic industries in Southeast Asia. Specialized in **Next.js, TypeScript, and React** ecosystems, with focus on performance optimization, micro-frontend architecture, and cross-platform consistency.
+Frontend Engineer with 5+ years of experience building **enterprise-grade web platforms** for high-traffic industries in Southeast Asia. Specialized in **Next.js, TypeScript, and React** ecosystems, with focus on performance optimization, micro-frontend architecture, and cross-platform consistency. Most of my work is in private repositories due to company policies, but here's a glimpse of my expertise:  
 
 ### 🚀 Key Expertise
 - **GoFood (Gojek)**: Engineered food delivery platform integrated with TikTok & Momo Vietnam. Optimized performance via code splitting, lazy loading, and bundle analysis for seamless user experiences.  
