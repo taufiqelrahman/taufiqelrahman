@@ -1,26 +1,20 @@
 ## Hello I'm Taufiq 👋
+Frontend Engineer with 5+ years of experience building **enterprise-grade web platforms** for high-traffic industries in Southeast Asia. Specialized in **Next.js, TypeScript, and React** ecosystems, with focus on performance optimization, micro-frontend architecture, and cross-platform consistency.
 
-I’m a Website Developer from Indonesia, helping companies deliver beautiful, intuitive UX through thoughtful design and efficient code. Having spent a couple of years in infrastructure department, has given me a broad understanding of web development. I've been delivering more efficient and effective websites, UX and code wise, for over 8 years ever since.
+### 🚀 Key Expertise
+- **GoFood (Gojek)**: Engineered food delivery platform integrated with TikTok & Momo Vietnam. Optimized performance via code splitting, lazy loading, and bundle analysis for seamless user experiences.  
+- **GoBiz (Gojek)**: Built API-configurable merchant onboarding wizard and micro-frontend system. Developed NPM component library adopted company-wide for UI consistency.  
+- **Bukalapak**: Created live chat & chatbot system for help center. Optimized CI/CD pipeline and integrated Zendesk with custom components.  
 
-🔭 Currently senior frontend engineer at [Gojek](https://www.gojek.com)
+### 🛠️ Core Skills
+- **Frontend**: Next.js, TypeScript, React.js, Vue.js, Tailwind CSS  
+- **Architecture**: Micro-frontends, Component Libraries, API Integration  
+- **Tools**: GitLab CI/CD, Webpack, Jest, React Testing Library  
+- **Performance**: Bundle Optimization, Lazy Loading, SSR/ISR  
 
-🏷 Website Design & Development
+### 🌍 Remote-First Professional
+Thrive in async environments with proactive documentation and cross-functional collaboration. Passionate about solving complex problems through clean, maintainable code. Seeking mid-level roles in GCC/MENA to contribute expertise in scalable frontend systems.
 
-📍Jakarta, Indonesia
-
-[Let's work together](https://taufiqelrahman.com)
-
-<!--
-**taufiqelrahman/taufiqelrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+Portfolio: https://taufiqelrahman.com  
+Open to opportunities in UAE, Saudi Arabia, or Qatar.
