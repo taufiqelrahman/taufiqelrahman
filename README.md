@@ -17,7 +17,7 @@ Thrive in async environments with proactive documentation and cross-functional c
 
 ### 🎯 Highlighted Personal Project
 
-**[HoverZoom](https://www.npmjs.com/package/hoverzoom-js): A lightweight, vanilla JavaScript/TypeScript image magnifier plugin with **inside & outside zoom modes**, custom styling, and responsive design. Built from scratch without dependencies, focusing on **performance** and **browser compatibility**. ([demo](https://demo-hoverzoom.taufiqelrahman.com)**)
+**[HoverZoom](https://www.npmjs.com/package/hoverzoom-js): A lightweight, vanilla JavaScript/TypeScript image magnifier plugin with **inside & outside zoom modes**, custom styling, and responsive design. Built from scratch without dependencies, focusing on **performance** and **browser compatibility**. ([demo](https://hoverzoom-js.vercel.app)**)
 
 ### 📫 Let's Connect
 Portfolio: https://taufiqelrahman.com  
