@@ -17,7 +17,7 @@ Thrive in async environments with proactive documentation and cross-functional c
 
 ### 🎯 Highlighted Personal Project
 
-**[HoverZoom](https://hoverzoom.taufiqelrahman.com)**: A lightweight, vanilla JavaScript/TypeScript image magnifier plugin with **inside & outside zoom modes**, custom styling, and responsive design. Built from scratch without dependencies, focusing on **performance** and **browser compatibility**.
+**[HoverZoom](https://demo-hoverzoom.taufiqelrahman.com)**: A lightweight, vanilla JavaScript/TypeScript image magnifier plugin with **inside & outside zoom modes**, custom styling, and responsive design. Built from scratch without dependencies, focusing on **performance** and **browser compatibility**.
 
 ### 📫 Let's Connect
 Portfolio: https://taufiqelrahman.com  
