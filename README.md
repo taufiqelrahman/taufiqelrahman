@@ -15,6 +15,10 @@ Frontend Engineer with 5+ years of experience building **enterprise-grade web pl
 ### 🌍 Remote-First Professional
 Thrive in async environments with proactive documentation and cross-functional collaboration. Passionate about solving complex problems through clean, maintainable code. Seeking mid-level roles in GCC/MENA to contribute expertise in scalable frontend systems.
 
+### 🎯 Highlighted Personal Project
+
+**[HoverZoom](https://hoverzoom.taufiqelrahman.com)**: A lightweight, vanilla JavaScript/TypeScript image magnifier plugin with **inside & outside zoom modes**, custom styling, and responsive design. Built from scratch without dependencies, focusing on **performance** and **browser compatibility**.
+
 ### 📫 Let's Connect
 Portfolio: https://taufiqelrahman.com  
 Open to opportunities in UAE, Saudi Arabia, or Qatar.
