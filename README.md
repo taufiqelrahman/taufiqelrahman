@@ -17,7 +17,8 @@ Thrive in async environments with proactive documentation and cross-functional c
 
 ### 🎯 Highlighted Personal Project
 
-**[HoverZoom](https://www.npmjs.com/package/hoverzoom-js): A lightweight, vanilla JavaScript/TypeScript image magnifier plugin with **inside & outside zoom modes**, custom styling, and responsive design. Built from scratch without dependencies, focusing on **performance** and **browser compatibility**. ([demo](https://hoverzoom-js.vercel.app)**)
+- **[HoverZoom]**(https://www.npmjs.com/package/hoverzoom-js): A lightweight, vanilla JavaScript/TypeScript image magnifier plugin with **inside & outside zoom modes**, custom styling, and responsive design. Built from scratch without dependencies, focusing on performance and browser compatibility. ([demo](https://hoverzoom-js.vercel.app))
+- **[FlipBook]**(https://www.npmjs.com/package/flipbook-js): A lightweight, vanilla JavaScript plugin for creating animated, flippable book-style pages without any dependencies or jQuery — fast, easy to use, and highly customizable. Features include **smooth page flip animations**, keyboard navigation, jump-to-page support, and attention-grabbing transitions. ([demo](https://flipbook-js.vercel.app))
 
 ### 📫 Let's Connect
 Portfolio: https://taufiqelrahman.com  
