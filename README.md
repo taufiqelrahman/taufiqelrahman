@@ -19,7 +19,7 @@ Thrive in async environments with proactive documentation and cross-functional c
 
 - **[HoverZoom](https://www.npmjs.com/package/hoverzoom-js)**: A lightweight, vanilla JavaScript/TypeScript image magnifier plugin with **inside & outside zoom modes**, custom styling, and responsive design. Built from scratch without dependencies, focusing on performance and browser compatibility. ([demo](https://hoverzoom-js.vercel.app))
 - **[FlipBook](https://www.npmjs.com/package/flipbook-js)**: A lightweight, vanilla JavaScript plugin for creating animated, flippable book-style pages without any dependencies or jQuery — fast, easy to use, and highly customizable. Features include **smooth page flip animations**, keyboard navigation, jump-to-page support, and attention-grabbing transitions. ([demo](https://flipbook-js.vercel.app))
-- **[Interactive Bookshop Next.js](https://github.com/taufiqelrahman/interactive-bookshop-nextjs)**: An open-source web application for creating personalized children's books with e-commerce support. Built with a Next.js + Redux + GraphQL + Shopify + PWA stack, it’s ideal for learning modern full-stack development and contributing to a real project.
+- **[Interactive Bookshop Next.js](https://github.com/taufiqelrahman/interactive-bookshop-nextjs)**: An open-source web application for creating personalized children's books with e-commerce support. Built with a Next.js + Redux + GraphQL + Shopify + PWA stack, it’s ideal for learning modern full-stack development and contributing to a real project. ([demo](https://interactive-bookshop-nextjs.vercel.app))
 
 ### 📫 Let's Connect
 Portfolio: https://taufiqelrahman.com  
