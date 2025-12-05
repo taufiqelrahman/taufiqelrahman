@@ -1,4 +1,4 @@
-## Hello I'm Taufiq 👋
+## Hi I'm Taufiq 👋
 Frontend Engineer with 5+ years of experience building **enterprise-grade web platforms** for high-traffic industries in Southeast Asia. Specialized in **Next.js, TypeScript, and React** ecosystems, with focus on performance optimization, micro-frontend architecture, and cross-platform consistency. Most of my work is in private repositories due to company policies, but here's a glimpse of my expertise:  
 
 ### 🚀 Key Expertise
@@ -24,5 +24,5 @@ Thrive in async environments with proactive documentation and cross-functional c
 - **[Talk2Notes](https://github.com/taufiqelrahman/talk2notes)**: An open-source web application that automatically transcribes audio and video files and generates well-organized lecture notes complete with summaries, key concepts, definitions, example problems, and action items. ([demo](https://talk2notes.fly.dev))
 
 ### 📫 Let's Connect
-Portfolio: https://taufiqelrahman.com  
+Portfolio: https://taufiqel.com  
 Open to opportunities in UAE, Saudi Arabia, or Qatar.
